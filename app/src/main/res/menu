@@ -1,0 +1,7 @@
+<item android:id="@+id/lifes"
+android:icon="@drawable/lifes"
+android:title="Lifes"/>
+
+<item android:id="@+id/good"
+android:icon="@drawable/good"
+android:title="Good"/>
